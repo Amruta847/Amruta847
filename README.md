@@ -4,7 +4,10 @@
 
 Hi, I'm **Amruta**, an aspiring **Full-Stack Developer** interested in software development, problem-solving, and building creative projects while exploring new technologies.
 
----
+
+<table>
+<tr>
+<td width="80%" valign="middle">
 
 ## Tech Stack
 
@@ -17,15 +20,15 @@ Hi, I'm **Amruta**, an aspiring **Full-Stack Developer** interested in software 
 **Core Concepts:** Object-Oriented Programming (OOP) • DSA Fundamentals
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="20%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Programming animation" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50" alt="Coding GIF" />
 
 </td>
 </tr>
 </table>
 
-
+---
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/amruta-me-0a8236330)
