@@ -18,14 +18,12 @@ Hi, I'm **Amruta**, an aspiring **Full-Stack Developer** interested in software 
 
 **Core Concepts:** Object-Oriented Programming (OOP) • DSA Fundamentals
 
-
 <h2>
   Connect with Me
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="65" alt="Laptop GIF" />
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="80" align="right" alt="Laptop GIF" />
 </h2>
 
 - [LinkedIn](https://www.linkedin.com/in/amruta-me-0a8236330)
 
----
 
 
