@@ -1,15 +1,14 @@
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=%F0%9F%A7%A0+Brain+operating+at+3AM" alt="🧠 Brain operating at 3AM" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=%F0%9F%A7%A0+Brain+operating+at+3AM" alt="Brain operating at 3AM" />
 </p>
 
 Hi, I'm **Amruta**, an aspiring **Full-Stack Developer** interested in software development, problem-solving, and building creative projects while exploring new technologies.
 
-
-<table>
-<tr>
-<td width="80%" valign="middle">
-
-## Tech Stack
+<h2>
+  Tech Stack
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45" align="right" alt="Coding GIF" />
+</h2>
 
 **Languages:** Python • JavaScript • HTML • CSS • SQL
 
@@ -19,18 +18,12 @@ Hi, I'm **Amruta**, an aspiring **Full-Stack Developer** interested in software 
 
 **Core Concepts:** Object-Oriented Programming (OOP) • DSA Fundamentals
 
-</td>
-<td width="20%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50" alt="Coding GIF" />
-
-</td>
-</tr>
-</table>
-
----
-## Connect with Me
+<h2>
+  Connect with Me
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="50" align="right" alt="Coding laptop GIF" />
+</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/amruta-me-0a8236330)
 
 ---
+
