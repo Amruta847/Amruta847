@@ -7,7 +7,7 @@ Hi, I'm **Amruta**, an aspiring **Full-Stack Developer** interested in software 
 
 <h2>
   Tech Stack
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45" align="right" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="65" alt="Coding GIF" />
 </h2>
 
 **Languages:** Python • JavaScript • HTML • CSS • SQL
@@ -18,12 +18,14 @@ Hi, I'm **Amruta**, an aspiring **Full-Stack Developer** interested in software 
 
 **Core Concepts:** Object-Oriented Programming (OOP) • DSA Fundamentals
 
+
 <h2>
   Connect with Me
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="50" align="right" alt="Coding laptop GIF" />
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="65" alt="Laptop GIF" />
 </h2>
 
 - [LinkedIn](https://www.linkedin.com/in/amruta-me-0a8236330)
 
 ---
+
 
