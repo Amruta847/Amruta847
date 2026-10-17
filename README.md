@@ -16,7 +16,15 @@ Hi, I'm **Amruta**, an aspiring **Full-Stack Developer** interested in software 
 
 **Core Concepts:** Object-Oriented Programming (OOP) • DSA Fundamentals
 
----
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Programming animation" />
+
+</td>
+</tr>
+</table>
+
 
 ## Connect with Me
 
